@@ -3,7 +3,17 @@
 
 # 📌 Manual: Configuração de Posts Automáticos no Instagram
 
+
 Este manual descreve **passo a passo** como obter as credenciais necessárias para automatizar publicações no Instagram, utilizando **Replicate**, **Meta Graph API**, **RapidAPI** e **OpenAI**.
+
+## 🎯 Baixe o Template Pronto e Veja o Vídeo no YouTube
+💡 Quer pular toda a parte de configuração manual?  
+Baixe meu **template pronto** e tenha tudo configurado em minutos.  
+
+🎬 Assista também o vídeo passo a passo no YouTube.
+
+🔗 [Comprar Template - R$ 37,00](LINK_DO_TEMPLATE)  
+🔗 [Assistir no YouTube](LINK_DO_YOUTUBE)
 
 ---
 
@@ -67,6 +77,15 @@ Este manual descreve **passo a passo** como obter as credenciais necessárias pa
 - Teste sempre com valores pequenos antes de automatizar em larga escala.
 - Tokens permanentes da Meta ainda expiram eventualmente — mantenha controle.
 - Se um serviço parar de funcionar, verifique se o **limite de crédito** foi atingido.
+
+---
+
+## 🎯 Baixe o Template Pronto e Veja o Vídeo no YouTube
+💡 Pronto para começar?  
+Adquira o template e siga o passo a passo no vídeo.
+
+🔗 [Comprar Template - R$ 37,00](LINK_DO_TEMPLATE)  
+🔗 [Assistir no YouTube](LINK_DO_YOUTUBE)
 
 ---
 
