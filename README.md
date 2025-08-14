@@ -12,8 +12,8 @@ Baixe meu **template pronto** e tenha tudo configurado em minutos.
 
 🎬 Assista também o vídeo passo a passo no YouTube.
 
-🔗 [Comprar Template - R$ 37,00](LINK_DO_TEMPLATE)  
-🔗 [Assistir no YouTube](LINK_DO_YOUTUBE)
+🔗 [Comprar Template - R$ 37,00](https://hotm.art/HDtGfsg) 
+🔗 [Assistir no YouTube](https://youtu.be/BRSAI3GOhWc)
 
 ---
 
@@ -84,8 +84,8 @@ Baixe meu **template pronto** e tenha tudo configurado em minutos.
 💡 Pronto para começar?  
 Adquira o template e siga o passo a passo no vídeo.
 
-🔗 [Comprar Template - R$ 37,00](LINK_DO_TEMPLATE)  
-🔗 [Assistir no YouTube](LINK_DO_YOUTUBE)
+🔗 [Comprar Template - R$ 37,00](https://hotm.art/HDtGfsg) 
+🔗 [Assistir no YouTube](https://youtu.be/BRSAI3GOhWc)
 
 ---
 
