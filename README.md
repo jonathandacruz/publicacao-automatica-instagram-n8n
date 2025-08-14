@@ -37,6 +37,8 @@ Baixe meu **template pronto** e tenha tudo configurado em minutos.
 4. Gere um **Access Token temporário** para a página.
 5. Com o token temporário em mãos, troque-o por um **token permanente**:  
    - Siga a documentação da Meta: [Gerar Token Permanente](https://developers.facebook.com/docs/facebook-login/access-tokens/refreshing)
+  
+   - curl --location 'https://graph.facebook.com/v22.0/oauth/access_token?grant_type=fb_exchange_token&client_id=XXXX&client_secret=XXXXXXXX&fb_exchange_token=EAAHTmdoZCmk4BPLcFexIoL7TUjhcyBuC6Y90Vg0fZCu16DMTZAdwsGZC0FS1amQAzHpwROuUWyk6IG1R6tZBhT6Q3Vkxs6Ftt8kdl0mNqN8MZBMJp0AF24lkHrJEZCBaYLkgQjkuX3Dluly25gwdnDaDxSOPT05n0l05hsPJG86rP8gm5J9XYrZCerJmOaNeKZCgeftDuZBbtWHM01ZCWt2HSImKo7YTi7pccp61ooT4UnYejFzMYZBLbyWdZCtw2dAZDZD'
 6. Salve o **Page Access Token** — ele será usado para publicar no Instagram.
 
 ---
